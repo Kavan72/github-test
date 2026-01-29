@@ -27,7 +27,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
-                    <arguments>-DskipTests -Dmaven.javadoc.skip=true</arguments>
+                    <arguments>-DskipTests -Dmaven.javadoc.skip=true -Dmaven.deploy.skip=true</arguments>
                 </configuration>
             </plugin>
         </plugins>
