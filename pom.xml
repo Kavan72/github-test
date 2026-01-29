@@ -16,7 +16,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/Kavan72/github-test.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:Kavan72/github-test.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:Kavan72/github-test.git</developerConnection>
         <url>https://github.com/Kavan72/github-test</url>
         <tag>HEAD</tag>
     </scm>
